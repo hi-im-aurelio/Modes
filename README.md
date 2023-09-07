@@ -1,16 +1,16 @@
-# darkmode_example_app
+**Dark Mode Switcher with Hive in Flutter**
 
-A new Flutter project.
+Este repositório contém um exemplo simples de como implementar uma alternância entre os modos claro e escuro (Dark Mode e Light Mode) em um aplicativo Flutter usando o Hive para persistência de dados.
 
-## Getting Started
+**Características**:
+- Utiliza o Hive para armazenar as preferências do usuário em relação ao modo escuro.
+- Animação suave entre os ícones de sol e lua ao alternar entre os modos.
+- Estrutura bem organizada e de fácil compreensão.
 
-This project is a starting point for a Flutter application.
+**Como usar**:
+1. Clone o repositório.
+2. Execute `flutter pub get` para instalar as dependências.
+3. Execute `flutter run` para iniciar o aplicativo.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contribuições**:
+Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Abra um Pull Request e vamos revisá-lo!
