@@ -7,9 +7,7 @@ void main() async {
   await Hive.initFlutter();
 
   var box = await Hive.openBox('mode');
-  if (box == null) {
-    throw "Unable to open Hive box";
-  }
+
   runApp(MyApp(box));
 }
 
